@@ -1,0 +1,14 @@
+# Tuist / Xcode generated files
+.build/
+.tuist-cache/
+Derived/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+SnowWorld.xcodeproj/
+
+# macOS
+.DS_Store
+
+# SwiftPM
+.swiftpm/
